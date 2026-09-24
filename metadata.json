@@ -1,0 +1,6 @@
+{
+  "name": "Good Pizza",
+  "description": "Game restoran pizza 2D yang interaktif dan seru. Racik adonan, tambahkan saus, keju, dan aneka topping, lalu panggang untuk melayani pelanggan kedai pizza Anda!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
